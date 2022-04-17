@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Unconditionallove47
+- 👋 Hi, I’m Kalif(@Unconditionallove47)
 - 👀 I’m interested in learning new coding languages and expanding my knowledge within the few i know!
 - 🌱 I’m currently learning HTML,CSS,Javascript and continuing my education in C++
-- 💞️ I’m looking to collaborate on website design, and IoT microcontroller setup and function
+- 💞️ I’m looking to collaborate on website design,creation, and IoT microcontroller setup and functionality.
 - 📫 How to reach me: https://www.linkedin.com/in/kalifp/  Or by email at Kpurcedesigns@gmail.com
 
 <!---
