@@ -8,4 +8,4 @@
 Unconditionallove47/Unconditionallove47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Kalif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unconditionallove47)](https://github.com/Unconditionallove47/github-readme-stats)
+![Kalif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unconditionallove47&theme=nightowl&show_icons=true)
